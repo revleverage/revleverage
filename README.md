@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @revleverage
 - 👀 I’m interested in growing my technical knowledge
-- 🌱 I’m currently learning PowerShell
 - 💞️ Better late than never!
 - 📫 How to reach me ... TBD
 
